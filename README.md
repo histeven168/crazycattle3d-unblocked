@@ -1,5 +1,7 @@
-# crazycattle3d-unblocked
+# Crazy Cattle 3d Unblocked
 [Crazy Cattle 3D Unblocked](https://creazycattle3d.dev) is a physics‑first battle‑royale brawler where you pilot a volatile sheep and fight to be the last one standing. There’s no looting or crafting—everything revolves around speed control, angles of approach, and the timing of collisions. From open pastures to cliff‑lined canyons and floating platforms, each arena rewards different footwork, edge discipline, and risk management. Rounds are brisk, inputs feel immediate, and the slapstick outcomes read more like emergent stories than scripted events.
+
+![crazy cattle 3d unlocked](https://crazycattle3d.dev/images/step3.webp)
 
 # What makes crazycattle3d unique? 
 
